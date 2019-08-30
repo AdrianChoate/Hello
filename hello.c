@@ -12,6 +12,8 @@
    printf("Computer Science!\n");
    printf("yunier perez\n");
    printf("undeclared major\n");
+   printf("Kevin Mai\n");
+   printf("Computer Engineering\n");
 
    return 0;
  }
