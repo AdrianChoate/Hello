@@ -1,5 +1,6 @@
 /**
-* Adrian Choate
+* Adrian Choate, Kevin Mai, and Yunier Perez
+*
 * 08/29/2019
 * Simple hello world type program
 */
