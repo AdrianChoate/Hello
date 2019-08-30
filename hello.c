@@ -10,8 +10,6 @@
 
    printf("Adrian!\n");
    printf("Computer Science!\n");
-   printf("Kevin Mai\n");
-   printf("Computer Engineering\n");
    printf("yunier perez\n");
    printf("undeclared major\n");
 
