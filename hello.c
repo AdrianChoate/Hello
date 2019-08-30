@@ -10,5 +10,7 @@
 
    printf("Adrian!\n");
    printf("Computer Science!\n")
+   printf("Kevin Mai\n")
+   printf("Computer Engineering\n")
    return 0;
  }
